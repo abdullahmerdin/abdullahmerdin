@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @abdullahmerdin
-- 👀 I’m interested in game development and database management
-- 🌱 I’m currently learning C# on Unity
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me abdullahmerdin@gmail.com
+
